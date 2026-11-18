@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795033107168,
+  "lastUpdate": 1795033407148,
   "messages": [
+    {
+      "id": 1436,
+      "message_id": "1572707941725896866",
+      "author_id": "1159912110814417033",
+      "author_tag": "zhmenabtw",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "лс дс",
+      "attachments": null,
+      "timestamp": 1795033192808,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1435,
+      "message_id": "1572707915532337226",
+      "author_id": "1159912110814417033",
+      "author_tag": "zhmenabtw",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "<@1095402439575871498>",
+      "attachments": null,
+      "timestamp": 1795033186563,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1434,
       "message_id": "1572704129506345013",
@@ -6972,34 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 935,
-      "message_id": "1572278683241152563",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Вот",
-      "attachments": null,
-      "timestamp": 1794930849610,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 937,
-      "message_id": "1572278675565576326",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "",
-      "attachments": "[{\"url\":\"https://cdn.discordapp.com/attachments/1572273493305860231/1572278675376709662/IMG_0247.jpg?ex=6afdca1f&is=6afc789f&hm=b37eaa3fdc59ec0b828a82ab9fff7625a4a5f53737be2a662f57003b142e4cee&\",\"name\":\"IMG_0247.jpg\"}]",
-      "timestamp": 1794930847780,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7019,7 +7019,7 @@
       {
         "user_id": "1159912110814417033",
         "user_tag": "zhmenabtw",
-        "total": 173
+        "total": 175
       },
       {
         "user_id": "1190307173675311206",
