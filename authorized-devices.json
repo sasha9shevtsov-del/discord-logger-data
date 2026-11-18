@@ -1,3 +1,12 @@
 {
-  "devices": []
+  "devices": [
+    {
+      "hwid": "admin-1795029870299",
+      "passwordHash": "fd9e5ebaa4546013d5e8fcc3933b9ee5524a9bb32410cd7a1b1670a873690e5f",
+      "deviceName": "Unknown Device",
+      "addedAt": 1795029870754,
+      "lastAccess": null,
+      "expiresAt": 1795029890754
+    }
+  ]
 }
