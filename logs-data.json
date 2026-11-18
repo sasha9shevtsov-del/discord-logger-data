@@ -1,6 +1,104 @@
 {
-  "lastUpdate": 1795032207227,
+  "lastUpdate": 1795032507124,
   "messages": [
+    {
+      "id": 1434,
+      "message_id": "1572704129506345013",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "меня это волнует",
+      "attachments": null,
+      "timestamp": 1795032283904,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1433,
+      "message_id": "1572704090054721659",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "мало ли подумают что захочу крякнуть",
+      "attachments": null,
+      "timestamp": 1795032274498,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1432,
+      "message_id": "1572704063987126294",
+      "author_id": "1352539634256842755",
+      "author_tag": "aktoal11",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "уебак тупой",
+      "attachments": null,
+      "timestamp": 1795032268283,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1431,
+      "message_id": "1572704055157981287",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "бля а если у мя свой клиент,я иду на медиа винстона меня не пошлют?",
+      "attachments": null,
+      "timestamp": 1795032266178,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1430,
+      "message_id": "1572704038628233229",
+      "author_id": "1352539634256842755",
+      "author_tag": "aktoal11",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "ты заебал со своим хд",
+      "attachments": null,
+      "timestamp": 1795032262237,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1429,
+      "message_id": "1572703906608189534",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "для вида",
+      "attachments": null,
+      "timestamp": 1795032230761,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1428,
+      "message_id": "1572703854984831148",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "я один раз",
+      "attachments": null,
+      "timestamp": 1795032218453,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1427,
       "message_id": "1572701550164316211",
@@ -6902,104 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 934,
-      "message_id": "1572278659681620121",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "что норм будет",
-      "attachments": null,
-      "timestamp": 1794930843993,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 933,
-      "message_id": "1572278549732135046",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "щя",
-      "attachments": null,
-      "timestamp": 1794930817779,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 932,
-      "message_id": "1572278544598569052",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Логин напиши навсякий",
-      "attachments": null,
-      "timestamp": 1794930816555,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 931,
-      "message_id": "1572278506463694999",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Я хз мб фрайзу норм будет",
-      "attachments": null,
-      "timestamp": 1794930807463,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 930,
-      "message_id": "1572278497500729497",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "где видно весь экран",
-      "attachments": null,
-      "timestamp": 1794930805326,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 929,
-      "message_id": "1572278474046177341",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "норм скрин скинь",
-      "attachments": null,
-      "timestamp": 1794930799734,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 928,
-      "message_id": "1572278459026120754",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "там даже не видно куда ты потратил чел",
-      "attachments": null,
-      "timestamp": 1794930796153,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7107,9 +7107,19 @@
         "total": 11
       },
       {
+        "user_id": "1233864596423708693",
+        "user_tag": "yaneedo1337",
+        "total": 11
+      },
+      {
         "user_id": "1095402439575871498",
         "user_tag": "bleckbanan",
         "total": 10
+      },
+      {
+        "user_id": "1352539634256842755",
+        "user_tag": "aktoal11",
+        "total": 9
       },
       {
         "user_id": "1535663053100556379",
@@ -7132,19 +7142,9 @@
         "total": 7
       },
       {
-        "user_id": "1352539634256842755",
-        "user_tag": "aktoal11",
-        "total": 7
-      },
-      {
         "user_id": "825064704283246643",
         "user_tag": "veru66",
         "total": 7
-      },
-      {
-        "user_id": "1233864596423708693",
-        "user_tag": "yaneedo1337",
-        "total": 6
       },
       {
         "user_id": "1269653661051650108",
