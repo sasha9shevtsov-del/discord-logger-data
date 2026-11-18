@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795035507245,
+  "lastUpdate": 1795035807290,
   "messages": [
+    {
+      "id": 1442,
+      "message_id": "1572718280030949477",
+      "author_id": "1186371014481956924",
+      "author_tag": "w1quls",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": ")",
+      "attachments": null,
+      "timestamp": 1795035657652,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1441,
       "message_id": "1572716475415003269",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 942,
-      "message_id": "1572278911658762443",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "вот это уже +- норм",
-      "attachments": null,
-      "timestamp": 1794930904069,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7097,6 +7097,11 @@
         "total": 12
       },
       {
+        "user_id": "1186371014481956924",
+        "user_tag": "w1quls",
+        "total": 12
+      },
+      {
         "user_id": "1233864596423708693",
         "user_tag": "yaneedo1337",
         "total": 12
@@ -7105,11 +7110,6 @@
         "user_id": "1449776029789851681",
         "user_tag": "v1lonki",
         "total": 12
-      },
-      {
-        "user_id": "1186371014481956924",
-        "user_tag": "w1quls",
-        "total": 11
       },
       {
         "user_id": "1095402439575871498",
