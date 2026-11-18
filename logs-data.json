@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795031076809,
+  "lastUpdate": 1795031376824,
   "messages": [
+    {
+      "id": 1426,
+      "message_id": "1572699996539723817",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "<@1095402439575871498>",
+      "attachments": null,
+      "timestamp": 1795031298528,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1425,
       "message_id": "1572697538551611403",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 926,
-      "message_id": "1572278441271758972",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я получил нихуя",
-      "attachments": null,
-      "timestamp": 1794930791920,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7142,6 +7142,11 @@
         "total": 7
       },
       {
+        "user_id": "1233864596423708693",
+        "user_tag": "yaneedo1337",
+        "total": 6
+      },
+      {
         "user_id": "1269653661051650108",
         "user_tag": "pitka229_83489",
         "total": 6
@@ -7154,11 +7159,6 @@
       {
         "user_id": "1162459802572701808",
         "user_tag": "irugimperian",
-        "total": 5
-      },
-      {
-        "user_id": "1233864596423708693",
-        "user_tag": "yaneedo1337",
         "total": 5
       },
       {
