@@ -1,6 +1,90 @@
 {
-  "lastUpdate": 1795030476796,
+  "lastUpdate": 1795030776840,
   "messages": [
+    {
+      "id": 1425,
+      "message_id": "1572697538551611403",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "окей",
+      "attachments": null,
+      "timestamp": 1795030712498,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1424,
+      "message_id": "1572697474307457065",
+      "author_id": "1482473913320738910",
+      "author_tag": "vortext0618",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "<@1095402439575871498> или <@1439594174616829982> хз больше нету медиа кураторов",
+      "attachments": null,
+      "timestamp": 1795030697181,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1423,
+      "message_id": "1572697345299054633",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "сабки нету",
+      "attachments": null,
+      "timestamp": 1795030666423,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1422,
+      "message_id": "1572697301821169786",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "2к+",
+      "attachments": null,
+      "timestamp": 1795030656057,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1421,
+      "message_id": "1572697264852308209",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "кого по медиа тегать?",
+      "attachments": null,
+      "timestamp": 1795030647243,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1420,
+      "message_id": "1572697192278532306",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "https://www.tiktok.com/@yaneedo1337\n289 подписчиков\n2к просмотров",
+      "attachments": null,
+      "timestamp": 1795030629940,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1419,
       "message_id": "1572693322361868450",
@@ -6916,90 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 925,
-      "message_id": "1572278424884482189",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "и что?",
-      "attachments": null,
-      "timestamp": 1794930788013,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 924,
-      "message_id": "1572278402767917273",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я потратил 5 эвро",
-      "attachments": null,
-      "timestamp": 1794930782740,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 923,
-      "message_id": "1572278327010394114",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "это приложения банка",
-      "attachments": null,
-      "timestamp": 1794930764678,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 922,
-      "message_id": "1572278322665361441",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "там пол экрана не видно вообще",
-      "attachments": null,
-      "timestamp": 1794930763642,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 921,
-      "message_id": "1572278302763253814",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "то что ты скинул",
-      "attachments": null,
-      "timestamp": 1794930758897,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 920,
-      "message_id": "1572278270295019593",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "где",
-      "attachments": null,
-      "timestamp": 1794930751156,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7049,7 +7049,7 @@
       {
         "user_id": "1482473913320738910",
         "user_tag": "vortext0618",
-        "total": 50
+        "total": 51
       },
       {
         "user_id": "974321300321480715",
@@ -7157,6 +7157,11 @@
         "total": 5
       },
       {
+        "user_id": "1233864596423708693",
+        "user_tag": "yaneedo1337",
+        "total": 5
+      },
+      {
         "user_id": "1260228216740904973",
         "user_tag": "qxxwiko.",
         "total": 5
@@ -7249,11 +7254,6 @@
       {
         "user_id": "1079062745388941434",
         "user_tag": "xom1ks",
-        "total": 1
-      },
-      {
-        "user_id": "1083736086842454066",
-        "user_tag": "razrad_",
         "total": 1
       }
     ],
@@ -7361,6 +7361,11 @@
       {
         "user_id": "1214987168984866858",
         "user_tag": "zxc_redan0000000.",
+        "total": 0
+      },
+      {
+        "user_id": "1233864596423708693",
+        "user_tag": "yaneedo1337",
         "total": 0
       },
       {
@@ -7501,11 +7506,6 @@
       {
         "user_id": "1482659073081213005",
         "user_tag": "asdq2eadas",
-        "total": 0
-      },
-      {
-        "user_id": "1483512482885664961",
-        "user_tag": "gojo_95118",
         "total": 0
       }
     ]
