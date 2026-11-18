@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795034907167,
+  "lastUpdate": 1795035207216,
   "messages": [
+    {
+      "id": 1439,
+      "message_id": "1572716381441499268",
+      "author_id": "1439594174616829982",
+      "author_tag": "freaw",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "ну ответь мне пожалуйста на что ты надеешься?",
+      "attachments": null,
+      "timestamp": 1795035204993,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1438,
+      "message_id": "1572715923310379121",
+      "author_id": "1159912110814417033",
+      "author_tag": "zhmenabtw",
+      "channel_id": "1572697087215276066",
+      "channel_name": "ticket-needo1337",
+      "content": "не пошлют",
+      "attachments": null,
+      "timestamp": 1795035095766,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1437,
       "message_id": "1572714327415459923",
@@ -6972,34 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 939,
-      "message_id": "1572278725632860332",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "уже лучше",
-      "attachments": null,
-      "timestamp": 1794930859717,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 938,
-      "message_id": "1572278700043411558",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Время видно",
-      "attachments": null,
-      "timestamp": 1794930853616,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7019,7 +7019,7 @@
       {
         "user_id": "1159912110814417033",
         "user_tag": "zhmenabtw",
-        "total": 175
+        "total": 176
       },
       {
         "user_id": "1190307173675311206",
@@ -7044,7 +7044,7 @@
       {
         "user_id": "1439594174616829982",
         "user_tag": "freaw",
-        "total": 51
+        "total": 52
       },
       {
         "user_id": "1482473913320738910",
