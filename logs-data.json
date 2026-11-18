@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795037307419,
+  "lastUpdate": 1795037607320,
   "messages": [
+    {
+      "id": 1444,
+      "message_id": "1572725553289756885",
+      "author_id": "1159912110814417033",
+      "author_tag": "zhmenabtw",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "..",
+      "attachments": null,
+      "timestamp": 1795037391732,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1443,
       "message_id": "1572721312953270444",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 944,
-      "message_id": "1572278925743362081",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "То что чек может так выглядить",
-      "attachments": null,
-      "timestamp": 1794930907427,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7019,7 +7019,7 @@
       {
         "user_id": "1159912110814417033",
         "user_tag": "zhmenabtw",
-        "total": 176
+        "total": 177
       },
       {
         "user_id": "1190307173675311206",
