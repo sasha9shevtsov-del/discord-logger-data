@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795063708186,
+  "lastUpdate": 1795064008030,
   "messages": [
+    {
+      "id": 1447,
+      "message_id": "1572837185047101691",
+      "author_id": "1233864596423708693",
+      "author_tag": "yaneedo1337",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "1",
+      "attachments": null,
+      "timestamp": 1795064006817,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1446,
       "message_id": "1572829850140676137",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 947,
-      "message_id": "1572279231931613325",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я не говорил вроде что это не чек?",
-      "attachments": null,
-      "timestamp": 1794930980428,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7087,6 +7087,11 @@
         "total": 15
       },
       {
+        "user_id": "1233864596423708693",
+        "user_tag": "yaneedo1337",
+        "total": 13
+      },
+      {
         "user_id": "934864905981546558",
         "user_tag": "abebka2805",
         "total": 13
@@ -7099,11 +7104,6 @@
       {
         "user_id": "1186371014481956924",
         "user_tag": "w1quls",
-        "total": 12
-      },
-      {
-        "user_id": "1233864596423708693",
-        "user_tag": "yaneedo1337",
         "total": 12
       },
       {
