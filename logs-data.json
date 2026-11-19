@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795093708645,
+  "lastUpdate": 1795094008688,
   "messages": [
+    {
+      "id": 1476,
+      "message_id": "1572962289231859753",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "темболее я незн вообще можно ссылки на рекламу чита какого то в чат считай",
+      "attachments": null,
+      "timestamp": 1795093833979,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1475,
+      "message_id": "1572962139902316617",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "нахуя мне этот видос",
+      "attachments": null,
+      "timestamp": 1795093798376,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1474,
       "message_id": "1572961724439592971",
@@ -6972,34 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 976,
-      "message_id": "1572280922588315869",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "нет, о поддельньсти тут даже слова небыло",
-      "attachments": null,
-      "timestamp": 1794931383512,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 975,
-      "message_id": "1572280726164873367",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Ну так вы не говорите о поддельности это правда, НО вы убеждаетесь, что он не поддельный.",
-      "attachments": null,
-      "timestamp": 1794931336681,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7202,6 +7202,11 @@
         "total": 4
       },
       {
+        "user_id": "950474504872812594",
+        "user_tag": "ivan_zot",
+        "total": 4
+      },
+      {
         "user_id": "1266321923944742913",
         "user_tag": "aviusinho_63690",
         "total": 3
@@ -7244,11 +7249,6 @@
       {
         "user_id": "1514342572519067653",
         "user_tag": "darkboltsp",
-        "total": 2
-      },
-      {
-        "user_id": "950474504872812594",
-        "user_tag": "ivan_zot",
         "total": 2
       },
       {
