@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795079908358,
+  "lastUpdate": 1795080208452,
   "messages": [
+    {
+      "id": 1452,
+      "message_id": "1572904840416202815",
+      "author_id": "1364528957558493236",
+      "author_tag": "sheryyys",
+      "channel_id": "1553030269160661093",
+      "channel_name": "logs",
+      "content": "",
+      "attachments": null,
+      "timestamp": 1795080137114,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1451,
+      "message_id": "1572904642227212340",
+      "author_id": "1462025987867934920",
+      "author_tag": "freywz",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "",
+      "attachments": "[{\"url\":\"https://cdn.discordapp.com/attachments/1553032709083893800/1572904642000461954/IMG_0296.png?ex=6b001119&is=6afebf99&hm=c649ac1aa874ff7564a61e17c4396d62111c4d1969a44bf24ec6079dbd957dd3&\",\"name\":\"IMG_0296.png\"}]",
+      "timestamp": 1795080089862,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1450,
       "message_id": "1572884599183380551",
@@ -6972,34 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 952,
-      "message_id": "1572279343168626844",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "НОРМАЛЬНО где видно чуть больше чем пол экрана",
-      "attachments": null,
-      "timestamp": 1794931006949,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 951,
-      "message_id": "1572279323786743820",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Я конечно не знаю какие у него чеки",
-      "attachments": null,
-      "timestamp": 1794931002328,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7429,6 +7429,11 @@
         "total": 0
       },
       {
+        "user_id": "1364528957558493236",
+        "user_tag": "sheryyys",
+        "total": 0
+      },
+      {
         "user_id": "1364702369740357632",
         "user_tag": "mynloverr",
         "total": 0
@@ -7494,18 +7499,13 @@
         "total": 0
       },
       {
+        "user_id": "1462025987867934920",
+        "user_tag": "freywz",
+        "total": 0
+      },
+      {
         "user_id": "1462315148101554318",
         "user_tag": "atomniy.",
-        "total": 0
-      },
-      {
-        "user_id": "1482473913320738910",
-        "user_tag": "vortext0618",
-        "total": 0
-      },
-      {
-        "user_id": "1482659073081213005",
-        "user_tag": "asdq2eadas",
         "total": 0
       }
     ]
