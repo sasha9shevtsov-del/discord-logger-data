@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795080508433,
+  "lastUpdate": 1795080808413,
   "messages": [
+    {
+      "id": 1455,
+      "message_id": "1572907215994622055",
+      "author_id": "1266321923944742913",
+      "author_tag": "aviusinho_63690",
+      "channel_id": "1553030269160661093",
+      "channel_name": "logs",
+      "content": "",
+      "attachments": null,
+      "timestamp": 1795080703496,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1454,
       "message_id": "1572906222729035891",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 955,
-      "message_id": "1572279500639703091",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Ты его не открыл",
-      "attachments": null,
-      "timestamp": 1794931044493,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7384,6 +7384,11 @@
         "total": 0
       },
       {
+        "user_id": "1266321923944742913",
+        "user_tag": "aviusinho_63690",
+        "total": 0
+      },
+      {
         "user_id": "1269653661051650108",
         "user_tag": "pitka229_83489",
         "total": 0
@@ -7501,11 +7506,6 @@
       {
         "user_id": "1462025987867934920",
         "user_tag": "freywz",
-        "total": 0
-      },
-      {
-        "user_id": "1462315148101554318",
-        "user_tag": "atomniy.",
         "total": 0
       }
     ]
