@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795084408545,
+  "lastUpdate": 1795084708515,
   "messages": [
+    {
+      "id": 1466,
+      "message_id": "1572923445585641576",
+      "author_id": "835819970365358080",
+      "author_tag": "tolstiy_frick",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "чо за хуйня, у меня сабка есть и я когда запускаю у меня пишет что нету сабки",
+      "attachments": null,
+      "timestamp": 1795084572932,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1465,
       "message_id": "1572921391341113385",
@@ -6983,20 +6997,6 @@
       "content": "на новом",
       "attachments": null,
       "timestamp": 1794931180679,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 966,
-      "message_id": "1572280037116485794",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Так спрашу на всякий случай на новом сайте сабку покупал или на старом ?",
-      "attachments": null,
-      "timestamp": 1794931172399,
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
