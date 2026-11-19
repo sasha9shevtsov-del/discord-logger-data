@@ -1,6 +1,188 @@
 {
-  "lastUpdate": 1795097308726,
+  "lastUpdate": 1795097608806,
   "messages": [
+    {
+      "id": 1497,
+      "message_id": "1572978072821432462",
+      "author_id": "1525502569718218842",
+      "author_tag": "kinderestt",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "привет",
+      "attachments": null,
+      "timestamp": 1795097597080,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1496,
+      "message_id": "1572977818457997353",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "lsd",
+      "attachments": null,
+      "timestamp": 1795097536435,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1495,
+      "message_id": "1572977794147688582",
+      "author_id": "845488986051182602",
+      "author_tag": "_sakashimo_",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "тг дай",
+      "attachments": null,
+      "timestamp": 1795097530639,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1494,
+      "message_id": "1572977762312917105",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "или скажи как килку настроить",
+      "attachments": null,
+      "timestamp": 1795097523049,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1493,
+      "message_id": "1572977738762031205",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "конфиг дай а",
+      "attachments": null,
+      "timestamp": 1795097517434,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1492,
+      "message_id": "1572977726485176352",
+      "author_id": "845488986051182602",
+      "author_tag": "_sakashimo_",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "спокйно откинуть может",
+      "attachments": null,
+      "timestamp": 1795097514507,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1491,
+      "message_id": "1572977700627292202",
+      "author_id": "845488986051182602",
+      "author_tag": "_sakashimo_",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "из-за пинга",
+      "attachments": null,
+      "timestamp": 1795097508342,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1490,
+      "message_id": "1572977680100622437",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "незнаю короче",
+      "attachments": null,
+      "timestamp": 1795097503448,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1489,
+      "message_id": "1572977654825750639",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "у мя пинг пиздец был",
+      "attachments": null,
+      "timestamp": 1795097497422,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1488,
+      "message_id": "1572977630326554705",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "мб пинг",
+      "attachments": null,
+      "timestamp": 1795097491581,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1487,
+      "message_id": "1572977607862124718",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "я удар дал консоль откинула",
+      "attachments": null,
+      "timestamp": 1795097486225,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1486,
+      "message_id": "1572977568238407761",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "я ннещнаю почему",
+      "attachments": null,
+      "timestamp": 1795097476778,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1485,
+      "message_id": "1572977080906416213",
+      "author_id": "1062458383896150157",
+      "author_tag": "nazar4727",
+      "channel_id": "1553030269160661093",
+      "channel_name": "logs",
+      "content": "",
+      "attachments": null,
+      "timestamp": 1795097360589,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1484,
       "message_id": "1572975925379862764",
@@ -6818,188 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 997,
-      "message_id": "1572281445324693538",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "тут ничего не видно почти",
-      "attachments": null,
-      "timestamp": 1794931508142,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 996,
-      "message_id": "1572281438689038427",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "еще",
-      "attachments": null,
-      "timestamp": 1794931506560,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 995,
-      "message_id": "1572281429176619139",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "а что вам надо",
-      "attachments": null,
-      "timestamp": 1794931504292,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 994,
-      "message_id": "1572281398453076049",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "в чем проблема",
-      "attachments": null,
-      "timestamp": 1794931496967,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 993,
-      "message_id": "1572281396091945031",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "нет",
-      "attachments": null,
-      "timestamp": 1794931496404,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 992,
-      "message_id": "1572281378840514685",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "там все видно то что вам надо",
-      "attachments": null,
-      "timestamp": 1794931492291,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 991,
-      "message_id": "1572281343134535834",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "нахуя",
-      "attachments": null,
-      "timestamp": 1794931483778,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 990,
-      "message_id": "1572281280316448851",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "сколько не видно",
-      "attachments": null,
-      "timestamp": 1794931468801,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 989,
-      "message_id": "1572281268379459655",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "и точно скажи",
-      "attachments": null,
-      "timestamp": 1794931465955,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 988,
-      "message_id": "1572281260481716286",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "иди линейкой меряй экран",
-      "attachments": null,
-      "timestamp": 1794931464072,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 987,
-      "message_id": "1572281219612278805",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "какая половина",
-      "attachments": null,
-      "timestamp": 1794931454328,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 986,
-      "message_id": "1572281180248739912",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "там не видно 5 проц экрана",
-      "attachments": null,
-      "timestamp": 1794931444943,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 985,
-      "message_id": "1572281171130187849",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "это не нормально",
-      "attachments": null,
-      "timestamp": 1794931442769,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7009,7 +7009,7 @@
       {
         "user_id": "1525502569718218842",
         "user_tag": "kinderestt",
-        "total": 206
+        "total": 207
       },
       {
         "user_id": "1418884328674431017",
@@ -7087,6 +7087,11 @@
         "total": 15
       },
       {
+        "user_id": "950474504872812594",
+        "user_tag": "ivan_zot",
+        "total": 14
+      },
+      {
         "user_id": "1233864596423708693",
         "user_tag": "yaneedo1337",
         "total": 13
@@ -7162,11 +7167,6 @@
         "total": 6
       },
       {
-        "user_id": "950474504872812594",
-        "user_tag": "ivan_zot",
-        "total": 6
-      },
-      {
         "user_id": "1162459802572701808",
         "user_tag": "irugimperian",
         "total": 5
@@ -7184,6 +7184,11 @@
       {
         "user_id": "1538518098712203334",
         "user_tag": "y9devasted_f",
+        "total": 5
+      },
+      {
+        "user_id": "845488986051182602",
+        "user_tag": "_sakashimo_",
         "total": 5
       },
       {
@@ -7250,11 +7255,6 @@
         "user_id": "1492205227225387039",
         "user_tag": "xstundy",
         "total": 2
-      },
-      {
-        "user_id": "1514342572519067653",
-        "user_tag": "darkboltsp",
-        "total": 2
       }
     ],
     "topVoice": [
@@ -7271,6 +7271,11 @@
       {
         "user_id": "1060537125017223220",
         "user_tag": "hollybee_228",
+        "total": 0
+      },
+      {
+        "user_id": "1062458383896150157",
+        "user_tag": "nazar4727",
         "total": 0
       },
       {
@@ -7501,11 +7506,6 @@
       {
         "user_id": "1439594174616829982",
         "user_tag": "freaw",
-        "total": 0
-      },
-      {
-        "user_id": "1449776029789851681",
-        "user_tag": "v1lonki",
         "total": 0
       }
     ]
