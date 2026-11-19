@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795096709000,
+  "lastUpdate": 1795097008769,
   "messages": [
+    {
+      "id": 1482,
+      "message_id": "1572975560924340356",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "за свободную килку",
+      "attachments": null,
+      "timestamp": 1795096998197,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1481,
+      "message_id": "1572975350894428271",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "консоль вбанило",
+      "attachments": null,
+      "timestamp": 1795096948122,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1480,
       "message_id": "1572972588244664423",
@@ -6972,34 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 982,
-      "message_id": "1572281086245994657",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "чтобы весь экран было видно",
-      "attachments": null,
-      "timestamp": 1794931422531,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 981,
-      "message_id": "1572281065702162433",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "тебе не понятно",
-      "attachments": null,
-      "timestamp": 1794931417633,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7162,6 +7162,11 @@
         "total": 6
       },
       {
+        "user_id": "950474504872812594",
+        "user_tag": "ivan_zot",
+        "total": 6
+      },
+      {
         "user_id": "1162459802572701808",
         "user_tag": "irugimperian",
         "total": 5
@@ -7199,11 +7204,6 @@
       {
         "user_id": "1482659073081213005",
         "user_tag": "asdq2eadas",
-        "total": 4
-      },
-      {
-        "user_id": "950474504872812594",
-        "user_tag": "ivan_zot",
         "total": 4
       },
       {
