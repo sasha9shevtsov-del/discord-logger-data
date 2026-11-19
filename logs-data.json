@@ -1,6 +1,48 @@
 {
-  "lastUpdate": 1795094608731,
+  "lastUpdate": 1795094908761,
   "messages": [
+    {
+      "id": 1479,
+      "message_id": "1572966553593585765",
+      "author_id": "1345014814732320808",
+      "author_tag": "glavagazproma",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "в сети?",
+      "attachments": null,
+      "timestamp": 1795094850682,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1478,
+      "message_id": "1572966510366818315",
+      "author_id": "1345014814732320808",
+      "author_tag": "glavagazproma",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "<@1095402439575871498>",
+      "attachments": null,
+      "timestamp": 1795094840376,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1477,
+      "message_id": "1572965968605478975",
+      "author_id": "1345014814732320808",
+      "author_tag": "glavagazproma",
+      "channel_id": "1553030269160661093",
+      "channel_name": "logs",
+      "content": "",
+      "attachments": null,
+      "timestamp": 1795094711210,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1476,
       "message_id": "1572962289231859753",
@@ -6958,48 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 979,
-      "message_id": "1572280998110961737",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "покажи",
-      "attachments": null,
-      "timestamp": 1794931401518,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 978,
-      "message_id": "1572280984039194665",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "а как надо было",
-      "attachments": null,
-      "timestamp": 1794931398163,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 977,
-      "message_id": "1572280952418214091",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я лишь говорил что он его сфоткал хуево",
-      "attachments": null,
-      "timestamp": 1794931390624,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7212,6 +7212,11 @@
         "total": 3
       },
       {
+        "user_id": "1345014814732320808",
+        "user_tag": "glavagazproma",
+        "total": 3
+      },
+      {
         "user_id": "1364702369740357632",
         "user_tag": "mynloverr",
         "total": 3
@@ -7250,11 +7255,6 @@
         "user_id": "1514342572519067653",
         "user_tag": "darkboltsp",
         "total": 2
-      },
-      {
-        "user_id": "1026884268871385099",
-        "user_tag": "coralinenew",
-        "total": 1
       }
     ],
     "topVoice": [
@@ -7419,6 +7419,11 @@
         "total": 0
       },
       {
+        "user_id": "1345014814732320808",
+        "user_tag": "glavagazproma",
+        "total": 0
+      },
+      {
         "user_id": "1347937368459448362",
         "user_tag": "famehardownergarmonki",
         "total": 0
@@ -7501,11 +7506,6 @@
       {
         "user_id": "1449776029789851681",
         "user_tag": "v1lonki",
-        "total": 0
-      },
-      {
-        "user_id": "1454235675619495989",
-        "user_tag": "fantios",
         "total": 0
       }
     ]
