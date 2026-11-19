@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795075108227,
+  "lastUpdate": 1795075408243,
   "messages": [
+    {
+      "id": 1450,
+      "message_id": "1572884599183380551",
+      "author_id": "1159912110814417033",
+      "author_tag": "zhmenabtw",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "<@1095402439575871498> бармалей ти чо пьяный",
+      "attachments": null,
+      "timestamp": 1795075311228,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1449,
       "message_id": "1572871971363098675",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 950,
-      "message_id": "1572279281948823674",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Так а как тебе нормальный скинет",
-      "attachments": null,
-      "timestamp": 1794930992353,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7019,7 +7019,7 @@
       {
         "user_id": "1159912110814417033",
         "user_tag": "zhmenabtw",
-        "total": 178
+        "total": 179
       },
       {
         "user_id": "1190307173675311206",
