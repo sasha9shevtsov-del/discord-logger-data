@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795072108221,
+  "lastUpdate": 1795072408181,
   "messages": [
+    {
+      "id": 1449,
+      "message_id": "1572871971363098675",
+      "author_id": "1159912110814417033",
+      "author_tag": "zhmenabtw",
+      "channel_id": "1572297414512214241",
+      "channel_name": "ticket-wqzzzzzzz",
+      "content": "всегда пожалуйста",
+      "attachments": null,
+      "timestamp": 1795072300521,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1448,
+      "message_id": "1572871616629833789",
+      "author_id": "1261721279711547504",
+      "author_tag": "tsunavochka0214_70956",
+      "channel_id": "1572297414512214241",
+      "channel_name": "ticket-wqzzzzzzz",
+      "content": "<@1159912110814417033>  псб помогло",
+      "attachments": null,
+      "timestamp": 1795072215946,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1447,
       "message_id": "1572837185047101691",
@@ -6972,34 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 949,
-      "message_id": "1572279271605674035",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "чтобы он норм его скинул",
-      "attachments": null,
-      "timestamp": 1794930989887,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 948,
-      "message_id": "1572279253414973451",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я сказал что там не видно ничего",
-      "attachments": null,
-      "timestamp": 1794930985550,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7019,7 +7019,7 @@
       {
         "user_id": "1159912110814417033",
         "user_tag": "zhmenabtw",
-        "total": 177
+        "total": 178
       },
       {
         "user_id": "1190307173675311206",
@@ -7079,7 +7079,7 @@
       {
         "user_id": "1261721279711547504",
         "user_tag": "tsunavochka0214_70956",
-        "total": 17
+        "total": 18
       },
       {
         "user_id": "1421529730611675188",
