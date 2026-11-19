@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795086208544,
+  "lastUpdate": 1795086508565,
   "messages": [
+    {
+      "id": 1468,
+      "message_id": "1572931121056977007",
+      "author_id": "1535663053100556379",
+      "author_tag": "fameezkv",
+      "channel_id": "1572930813711098029",
+      "channel_name": "ticket-ezkv",
+      "content": "можно на медиа умоляю дайте шанс прошу вас  https://www.tiktok.com/@user97633410872388 дайте шанс умоляю прошу вас дайте мне шанс я буду каждый день снимать умоляю дайте шанс",
+      "attachments": null,
+      "timestamp": 1795086402907,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1467,
       "message_id": "1572927572092784683",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 968,
-      "message_id": "1572280213327323298",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Да тут и так всё видно номер не нужен",
-      "attachments": null,
-      "timestamp": 1794931214411,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7122,13 +7122,13 @@
         "total": 10
       },
       {
-        "user_id": "1352539634256842755",
-        "user_tag": "aktoal11",
-        "total": 9
-      },
-      {
         "user_id": "1535663053100556379",
         "user_tag": "fameezkv",
+        "total": 10
+      },
+      {
+        "user_id": "1352539634256842755",
+        "user_tag": "aktoal11",
         "total": 9
       },
       {
