@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795097008769,
+  "lastUpdate": 1795097308726,
   "messages": [
+    {
+      "id": 1484,
+      "message_id": "1572975925379862764",
+      "author_id": "845488986051182602",
+      "author_tag": "_sakashimo_",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "часа 4 назад играл",
+      "attachments": null,
+      "timestamp": 1795097085090,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1483,
+      "message_id": "1572975893507215471",
+      "author_id": "845488986051182602",
+      "author_tag": "_sakashimo_",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "меня не банило",
+      "attachments": null,
+      "timestamp": 1795097077491,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1482,
       "message_id": "1572975560924340356",
@@ -6969,34 +6997,6 @@
       "content": "это не нормально",
       "attachments": null,
       "timestamp": 1794931442769,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 984,
-      "message_id": "1572281125944954911",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я нормально сфоткал",
-      "attachments": null,
-      "timestamp": 1794931431996,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 983,
-      "message_id": "1572281097214103623",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "а не половину",
-      "attachments": null,
-      "timestamp": 1794931425146,
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
