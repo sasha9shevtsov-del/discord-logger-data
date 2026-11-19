@@ -1,6 +1,188 @@
 {
-  "lastUpdate": 1795097908754,
+  "lastUpdate": 1795098208905,
   "messages": [
+    {
+      "id": 1519,
+      "message_id": "1572980267600183297",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "в тг",
+      "attachments": null,
+      "timestamp": 1795098120356,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1518,
+      "message_id": "1572980263280181349",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "нет",
+      "attachments": null,
+      "timestamp": 1795098119326,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1517,
+      "message_id": "1572979861926977679",
+      "author_id": "1482473913320738910",
+      "author_tag": "vortext0618",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "Ты на сайте подавал заявку ?",
+      "attachments": null,
+      "timestamp": 1795098023636,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1516,
+      "message_id": "1572979719429824613",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "<@1439594174616829982>",
+      "attachments": null,
+      "timestamp": 1795097989662,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1515,
+      "message_id": "1572979675309809695",
+      "author_id": "1482473913320738910",
+      "author_tag": "vortext0618",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "К frayz все вопросы",
+      "attachments": null,
+      "timestamp": 1795097979143,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1514,
+      "message_id": "1572979651524169770",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "а сабку не можете выдат",
+      "attachments": null,
+      "timestamp": 1795097973472,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1513,
+      "message_id": "1572979603235151935",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "или скрин",
+      "attachments": null,
+      "timestamp": 1795097961959,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1512,
+      "message_id": "1572979589074915519",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "канал скинут?",
+      "attachments": null,
+      "timestamp": 1795097958583,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1511,
+      "message_id": "1572979588009689099",
+      "author_id": "1482473913320738910",
+      "author_tag": "vortext0618",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "Мы за это тоже не отвечаем",
+      "attachments": null,
+      "timestamp": 1795097958329,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1510,
+      "message_id": "1572979535278772316",
+      "author_id": "1482473913320738910",
+      "author_tag": "vortext0618",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "Бежим выдавать",
+      "attachments": null,
+      "timestamp": 1795097945757,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1509,
+      "message_id": "1572979486646079559",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "сказал логин и промик не отвечает",
+      "attachments": null,
+      "timestamp": 1795097934162,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1508,
+      "message_id": "1572979429515337813",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "сигна сказал то что канал подходит",
+      "attachments": null,
+      "timestamp": 1795097920541,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1507,
+      "message_id": "1572979386624512072",
+      "author_id": "1079338980555882497",
+      "author_tag": "piodor",
+      "channel_id": "1572979287399858196",
+      "channel_name": "ticket-овнер-ветмо-братан",
+      "content": "выдайте сабку",
+      "attachments": null,
+      "timestamp": 1795097910315,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1506,
       "message_id": "1572978477500727328",
@@ -6818,188 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 1019,
-      "message_id": "1572282022397747271",
-      "author_id": "1159912110814417033",
-      "author_tag": "zhmenabtw",
-      "channel_id": "1553032709083893800",
-      "channel_name": "❯💬⸽assistant-chat",
-      "content": "<@1439594174616829982> ls",
-      "attachments": null,
-      "timestamp": 1794931645727,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1018,
-      "message_id": "1572282014541811804",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "пошел нахуй",
-      "attachments": null,
-      "timestamp": 1794931643854,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1017,
-      "message_id": "1572281922921439293",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "а ты хуесос пиздиш сидиш что тебе чего то не хватает",
-      "attachments": null,
-      "timestamp": 1794931622010,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1016,
-      "message_id": "1572281815056515254",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я тебя даже не оскал и общался на вы",
-      "attachments": null,
-      "timestamp": 1794931596293,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1015,
-      "message_id": "1572281717811716299",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "понял",
-      "attachments": null,
-      "timestamp": 1794931573108,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1014,
-      "message_id": "1572281713802088520",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "в твоем случае да",
-      "attachments": null,
-      "timestamp": 1794931572152,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1013,
-      "message_id": "1572281690926227479",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "да",
-      "attachments": null,
-      "timestamp": 1794931566698,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1012,
-      "message_id": "1572281665571655824",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "а оскать обехательно",
-      "attachments": null,
-      "timestamp": 1794931560653,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1011,
-      "message_id": "1572281643593633833",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "а не про 2",
-      "attachments": null,
-      "timestamp": 1794931555413,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1010,
-      "message_id": "1572281636408528968",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "я тебе говорю про 1 скрин",
-      "attachments": null,
-      "timestamp": 1794931553700,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1009,
-      "message_id": "1572281613809618975",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "номер транзакции скинуть",
-      "attachments": null,
-      "timestamp": 1794931548312,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1008,
-      "message_id": "1572281611653742746",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "это просто пизда",
-      "attachments": null,
-      "timestamp": 1794931547798,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1007,
-      "message_id": "1572281602854359194",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "какой ты тупой нахуй",
-      "attachments": null,
-      "timestamp": 1794931545700,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7037,6 +7037,11 @@
         "total": 61
       },
       {
+        "user_id": "1482473913320738910",
+        "user_tag": "vortext0618",
+        "total": 55
+      },
+      {
         "user_id": "710381545046933565",
         "user_tag": "pomidoros1",
         "total": 55
@@ -7045,11 +7050,6 @@
         "user_id": "1439594174616829982",
         "user_tag": "freaw",
         "total": 54
-      },
-      {
-        "user_id": "1482473913320738910",
-        "user_tag": "vortext0618",
-        "total": 51
       },
       {
         "user_id": "974321300321480715",
@@ -7130,6 +7130,11 @@
         "user_id": "1535663053100556379",
         "user_tag": "fameezkv",
         "total": 10
+      },
+      {
+        "user_id": "1079338980555882497",
+        "user_tag": "piodor",
+        "total": 9
       },
       {
         "user_id": "1352539634256842755",
@@ -7250,11 +7255,6 @@
         "user_id": "1344388445090353172",
         "user_tag": "m8mettyfn228",
         "total": 2
-      },
-      {
-        "user_id": "1347937368459448362",
-        "user_tag": "famehardownergarmonki",
-        "total": 2
       }
     ],
     "topVoice": [
@@ -7286,6 +7286,11 @@
       {
         "user_id": "1079062745388941434",
         "user_tag": "xom1ks",
+        "total": 0
+      },
+      {
+        "user_id": "1079338980555882497",
+        "user_tag": "piodor",
         "total": 0
       },
       {
@@ -7501,11 +7506,6 @@
       {
         "user_id": "1429900714523492523",
         "user_tag": "n4valn1y_l3xa",
-        "total": 0
-      },
-      {
-        "user_id": "1439594174616829982",
-        "user_tag": "freaw",
         "total": 0
       }
     ]
