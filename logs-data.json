@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795081708489,
+  "lastUpdate": 1795082008421,
   "messages": [
+    {
+      "id": 1462,
+      "message_id": "1572912356651176040",
+      "author_id": "1299824109148176404",
+      "author_tag": "artem_kisper",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "<@1497536273936547940> тоже самое",
+      "attachments": null,
+      "timestamp": 1795081929124,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1461,
       "message_id": "1572909186554142832",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 962,
-      "message_id": "1572279793599119383",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "не",
-      "attachments": null,
-      "timestamp": 1794931114340,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7394,6 +7394,11 @@
         "total": 0
       },
       {
+        "user_id": "1299824109148176404",
+        "user_tag": "artem_kisper",
+        "total": 0
+      },
+      {
         "user_id": "1314532829152940034",
         "user_tag": "9j6k",
         "total": 0
@@ -7501,11 +7506,6 @@
       {
         "user_id": "1461433610589438215",
         "user_tag": "suxshes",
-        "total": 0
-      },
-      {
-        "user_id": "1462025987867934920",
-        "user_tag": "freywz",
         "total": 0
       }
     ]
