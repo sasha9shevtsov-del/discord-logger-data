@@ -1,6 +1,48 @@
 {
-  "lastUpdate": 1795083808444,
+  "lastUpdate": 1795084108481,
   "messages": [
+    {
+      "id": 1465,
+      "message_id": "1572921391341113385",
+      "author_id": "1119690054474944597",
+      "author_tag": "lostedmymind",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "розетка беремо и робімо",
+      "attachments": null,
+      "timestamp": 1795084083162,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1464,
+      "message_id": "1572921370273128449",
+      "author_id": "1119690054474944597",
+      "author_tag": "lostedmymind",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "оформляем",
+      "attachments": null,
+      "timestamp": 1795084078139,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1463,
+      "message_id": "1572920369839472782",
+      "author_id": "1356172214570844202",
+      "author_tag": "yadolboebvitalya1962",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "не достоин наверн,хз",
+      "attachments": null,
+      "timestamp": 1795083839617,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1462,
       "message_id": "1572912356651176040",
@@ -6958,48 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 965,
-      "message_id": "1572279967310553270",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "номер транзакции надо?",
-      "attachments": null,
-      "timestamp": 1794931155756,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 964,
-      "message_id": "1572279811596877896",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Обидно",
-      "attachments": null,
-      "timestamp": 1794931118631,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 963,
-      "message_id": "1572279798473031802",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Nvidia",
-      "attachments": null,
-      "timestamp": 1794931115502,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7029,7 +7029,7 @@
       {
         "user_id": "1119690054474944597",
         "user_tag": "lostedmymind",
-        "total": 105
+        "total": 107
       },
       {
         "user_id": "1424164584423690430",
@@ -7074,7 +7074,7 @@
       {
         "user_id": "1356172214570844202",
         "user_tag": "yadolboebvitalya1962",
-        "total": 19
+        "total": 20
       },
       {
         "user_id": "1261721279711547504",
