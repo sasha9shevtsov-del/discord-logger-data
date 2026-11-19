@@ -1,6 +1,76 @@
 {
-  "lastUpdate": 1795080808413,
+  "lastUpdate": 1795081108389,
   "messages": [
+    {
+      "id": 1460,
+      "message_id": "1572908915329470467",
+      "author_id": "1497536273936547940",
+      "author_tag": "otecxeno",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "а так нет але че за хуйня",
+      "attachments": null,
+      "timestamp": 1795081108649,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1459,
+      "message_id": "1572908884446674945",
+      "author_id": "1497536273936547940",
+      "author_tag": "otecxeno",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "я просто тапаю блять и она бьет",
+      "attachments": null,
+      "timestamp": 1795081101286,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1458,
+      "message_id": "1572908379339489413",
+      "author_id": "1497536273936547940",
+      "author_tag": "otecxeno",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "че за хуйня у меня килка типов не бьет",
+      "attachments": null,
+      "timestamp": 1795080980859,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1457,
+      "message_id": "1572908162217148498",
+      "author_id": "1266321923944742913",
+      "author_tag": "aviusinho_63690",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "<@1356172214570844202>",
+      "attachments": null,
+      "timestamp": 1795080929093,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1456,
+      "message_id": "1572907980742197339",
+      "author_id": "1266321923944742913",
+      "author_tag": "aviusinho_63690",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "Почему я не могу открыть тикет",
+      "attachments": null,
+      "timestamp": 1795080885826,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1455,
       "message_id": "1572907215994622055",
@@ -6930,76 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 960,
-      "message_id": "1572279732500955217",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Чек как минимум не поддельный успокойтесь",
-      "attachments": null,
-      "timestamp": 1794931099773,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 959,
-      "message_id": "1572279712280219790",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "номер транзакции",
-      "attachments": null,
-      "timestamp": 1794931094952,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 958,
-      "message_id": "1572279679832821904",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Так вот он открыл чо вы тупите",
-      "attachments": null,
-      "timestamp": 1794931087216,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 957,
-      "message_id": "1572279678226669610",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "что вам еще скинуть",
-      "attachments": null,
-      "timestamp": 1794931086833,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 956,
-      "message_id": "1572279536190758994",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Сам чек",
-      "attachments": null,
-      "timestamp": 1794931052969,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7122,6 +7122,11 @@
         "total": 9
       },
       {
+        "user_id": "1497536273936547940",
+        "user_tag": "otecxeno",
+        "total": 9
+      },
+      {
         "user_id": "1535663053100556379",
         "user_tag": "fameezkv",
         "total": 9
@@ -7154,11 +7159,6 @@
       {
         "user_id": "1356991502047252531",
         "user_tag": "ddarksided_",
-        "total": 6
-      },
-      {
-        "user_id": "1497536273936547940",
-        "user_tag": "otecxeno",
         "total": 6
       },
       {
@@ -7200,6 +7200,11 @@
         "user_id": "1482659073081213005",
         "user_tag": "asdq2eadas",
         "total": 4
+      },
+      {
+        "user_id": "1266321923944742913",
+        "user_tag": "aviusinho_63690",
+        "total": 3
       },
       {
         "user_id": "1364702369740357632",
@@ -7249,11 +7254,6 @@
       {
         "user_id": "1073956956202614914",
         "user_tag": "osel67",
-        "total": 1
-      },
-      {
-        "user_id": "1079062745388941434",
-        "user_tag": "xom1ks",
         "total": 1
       }
     ],
