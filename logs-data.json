@@ -1,6 +1,48 @@
 {
-  "lastUpdate": 1795093408698,
+  "lastUpdate": 1795093708645,
   "messages": [
+    {
+      "id": 1474,
+      "message_id": "1572961724439592971",
+      "author_id": "1498625300282609734",
+      "author_tag": "._hvh_.",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "https://www.youtube.com/watch?v=h_wQuaERNdQ",
+      "attachments": null,
+      "timestamp": 1795093699322,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1473,
+      "message_id": "1572961679099166721",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "или лучше обнову подождать",
+      "attachments": null,
+      "timestamp": 1795093688512,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1472,
+      "message_id": "1572961621825953861",
+      "author_id": "950474504872812594",
+      "author_tag": "ivan_zot",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "че по килке щас ставить",
+      "attachments": null,
+      "timestamp": 1795093674857,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1471,
       "message_id": "1572956136762646679",
@@ -6958,48 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 974,
-      "message_id": "1572280545021403259",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "верните деньги или дайте уже сабку",
-      "attachments": null,
-      "timestamp": 1794931293493,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 973,
-      "message_id": "1572280458446639186",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "так я вам уже все скинул все доки",
-      "attachments": null,
-      "timestamp": 1794931272852,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 972,
-      "message_id": "1572280437261336678",
-      "author_id": "1482473913320738910",
-      "author_tag": "vortext0618",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "Ну да вижу",
-      "attachments": null,
-      "timestamp": 1794931267801,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7247,13 +7247,13 @@
         "total": 2
       },
       {
-        "user_id": "1026884268871385099",
-        "user_tag": "coralinenew",
-        "total": 1
+        "user_id": "950474504872812594",
+        "user_tag": "ivan_zot",
+        "total": 2
       },
       {
-        "user_id": "1060537125017223220",
-        "user_tag": "hollybee_228",
+        "user_id": "1026884268871385099",
+        "user_tag": "coralinenew",
         "total": 1
       }
     ],
