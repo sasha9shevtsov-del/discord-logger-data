@@ -1,6 +1,20 @@
 {
-  "lastUpdate": 1795085308528,
+  "lastUpdate": 1795085608483,
   "messages": [
+    {
+      "id": 1467,
+      "message_id": "1572927572092784683",
+      "author_id": "1356172214570844202",
+      "author_tag": "yadolboebvitalya1962",
+      "channel_id": "1553025144035868723",
+      "channel_name": "❯💬⸽chat",
+      "content": "потому что ты кабелджон",
+      "attachments": null,
+      "timestamp": 1795085556768,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1466,
       "message_id": "1572923445585641576",
@@ -6986,20 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 967,
-      "message_id": "1572280071845187718",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "на новом",
-      "attachments": null,
-      "timestamp": 1794931180679,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7067,14 +7067,14 @@
         "total": 23
       },
       {
-        "user_id": "1521582778792149024",
-        "user_tag": "vima0228",
+        "user_id": "1356172214570844202",
+        "user_tag": "yadolboebvitalya1962",
         "total": 21
       },
       {
-        "user_id": "1356172214570844202",
-        "user_tag": "yadolboebvitalya1962",
-        "total": 20
+        "user_id": "1521582778792149024",
+        "user_tag": "vima0228",
+        "total": 21
       },
       {
         "user_id": "1261721279711547504",
