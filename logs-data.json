@@ -1,6 +1,34 @@
 {
-  "lastUpdate": 1795098208905,
+  "lastUpdate": 1795098508838,
   "messages": [
+    {
+      "id": 1521,
+      "message_id": "1572980776092573828",
+      "author_id": "1213860033440251965",
+      "author_tag": "etanikov",
+      "channel_id": "1572980733746745424",
+      "channel_name": "ticket-etanik",
+      "content": "можно подать на медию?",
+      "attachments": null,
+      "timestamp": 1795098241590,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1520,
+      "message_id": "1572980752595820546",
+      "author_id": "1213860033440251965",
+      "author_tag": "etanikov",
+      "channel_id": "1572980733746745424",
+      "channel_name": "ticket-etanik",
+      "content": "привет",
+      "attachments": null,
+      "timestamp": 1795098235988,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1519,
       "message_id": "1572980267600183297",
@@ -6972,34 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 1021,
-      "message_id": "1572283716510679203",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1553025144035868723",
-      "channel_name": "❯💬⸽chat",
-      "content": "<@1525502569718218842>",
-      "attachments": null,
-      "timestamp": 1794932049635,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1020,
-      "message_id": "1572282026239983837",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "тупое нахуй создание",
-      "attachments": null,
-      "timestamp": 1794931646643,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7247,13 +7247,13 @@
         "total": 2
       },
       {
-        "user_id": "1341705806948864020",
-        "user_tag": "mopsikos",
+        "user_id": "1213860033440251965",
+        "user_tag": "etanikov",
         "total": 2
       },
       {
-        "user_id": "1344388445090353172",
-        "user_tag": "m8mettyfn228",
+        "user_id": "1341705806948864020",
+        "user_tag": "mopsikos",
         "total": 2
       }
     ],
@@ -7366,6 +7366,11 @@
       {
         "user_id": "1210114101397692426",
         "user_tag": "ishak323_01760",
+        "total": 0
+      },
+      {
+        "user_id": "1213860033440251965",
+        "user_tag": "etanikov",
         "total": 0
       },
       {
@@ -7501,11 +7506,6 @@
       {
         "user_id": "1424164584423690430",
         "user_tag": "n1mars.",
-        "total": 0
-      },
-      {
-        "user_id": "1429900714523492523",
-        "user_tag": "n4valn1y_l3xa",
         "total": 0
       }
     ]
