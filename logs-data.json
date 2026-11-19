@@ -1,6 +1,90 @@
 {
-  "lastUpdate": 1795099108832,
+  "lastUpdate": 1795099409071,
   "messages": [
+    {
+      "id": 1527,
+      "message_id": "1572985615593644033",
+      "author_id": "1213860033440251965",
+      "author_tag": "etanikov",
+      "channel_id": "1572980733746745424",
+      "channel_name": "ticket-etanik",
+      "content": "щаа",
+      "attachments": null,
+      "timestamp": 1795099395417,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1526,
+      "message_id": "1572985531044860007",
+      "author_id": "1356172214570844202",
+      "author_tag": "yadolboebvitalya1962",
+      "channel_id": "1572980733746745424",
+      "channel_name": "ticket-etanik",
+      "content": "Кидай ссылку",
+      "attachments": null,
+      "timestamp": 1795099375259,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1525,
+      "message_id": "1572985522287018125",
+      "author_id": "1356172214570844202",
+      "author_tag": "yadolboebvitalya1962",
+      "channel_id": "1572980733746745424",
+      "channel_name": "ticket-etanik",
+      "content": "Можно машку и ляжку и козу на возу а у нас разрешите",
+      "attachments": null,
+      "timestamp": 1795099373171,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1524,
+      "message_id": "1572985415986585662",
+      "author_id": "1356172214570844202",
+      "author_tag": "yadolboebvitalya1962",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "Нормалдаки",
+      "attachments": null,
+      "timestamp": 1795099347827,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1523,
+      "message_id": "1572985364921192469",
+      "author_id": "1119690054474944597",
+      "author_tag": "lostedmymind",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "2 часа",
+      "attachments": null,
+      "timestamp": 1795099335652,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1522,
+      "message_id": "1572985362979098846",
+      "author_id": "1119690054474944597",
+      "author_tag": "lostedmymind",
+      "channel_id": "1553032709083893800",
+      "channel_name": "❯💬⸽assistant-chat",
+      "content": "<@1356172214570844202> какого это с вастном сидеть",
+      "attachments": null,
+      "timestamp": 1795099335189,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1521,
       "message_id": "1572980776092573828",
@@ -6916,90 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 1027,
-      "message_id": "1572284986961166447",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572284941520081056",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "а что мне в итоге делать",
-      "attachments": null,
-      "timestamp": 1794932352534,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1026,
-      "message_id": "1572284030118920246",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1553025144035868723",
-      "channel_name": "❯💬⸽chat",
-      "content": "это типа мне заново тикет создавать",
-      "attachments": null,
-      "timestamp": 1794932124405,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1025,
-      "message_id": "1572283786308354141",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1553025144035868723",
-      "channel_name": "❯💬⸽chat",
-      "content": "3vc",
-      "attachments": null,
-      "timestamp": 1794932066276,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1024,
-      "message_id": "1572283779173584897",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1553025144035868723",
-      "channel_name": "❯💬⸽chat",
-      "content": "?",
-      "attachments": null,
-      "timestamp": 1794932064575,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1023,
-      "message_id": "1572283763021316177",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1553025144035868723",
-      "channel_name": "❯💬⸽chat",
-      "content": "<@1525502569718218842>",
-      "attachments": null,
-      "timestamp": 1794932060724,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1022,
-      "message_id": "1572283752162533498",
-      "author_id": "1525502569718218842",
-      "author_tag": "kinderestt",
-      "channel_id": "1553025144035868723",
-      "channel_name": "❯💬⸽chat",
-      "content": "?",
-      "attachments": null,
-      "timestamp": 1794932058135,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7029,7 +7029,7 @@
       {
         "user_id": "1119690054474944597",
         "user_tag": "lostedmymind",
-        "total": 107
+        "total": 109
       },
       {
         "user_id": "1424164584423690430",
@@ -7062,14 +7062,14 @@
         "total": 34
       },
       {
+        "user_id": "1356172214570844202",
+        "user_tag": "yadolboebvitalya1962",
+        "total": 24
+      },
+      {
         "user_id": "1380293572661739611",
         "user_tag": "kaurf1946_87401",
         "total": 23
-      },
-      {
-        "user_id": "1356172214570844202",
-        "user_tag": "yadolboebvitalya1962",
-        "total": 21
       },
       {
         "user_id": "1521582778792149024",
@@ -7222,6 +7222,11 @@
         "total": 4
       },
       {
+        "user_id": "1213860033440251965",
+        "user_tag": "etanikov",
+        "total": 3
+      },
+      {
         "user_id": "1266321923944742913",
         "user_tag": "aviusinho_63690",
         "total": 3
@@ -7244,11 +7249,6 @@
       {
         "user_id": "1210114101397692426",
         "user_tag": "ishak323_01760",
-        "total": 2
-      },
-      {
-        "user_id": "1213860033440251965",
-        "user_tag": "etanikov",
         "total": 2
       },
       {
