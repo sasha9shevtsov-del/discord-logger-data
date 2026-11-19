@@ -1,6 +1,132 @@
 {
-  "lastUpdate": 1795097608806,
+  "lastUpdate": 1795097908754,
   "messages": [
+    {
+      "id": 1506,
+      "message_id": "1572978477500727328",
+      "author_id": "1525502569718218842",
+      "author_tag": "kinderestt",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "<@1095402439575871498>",
+      "attachments": null,
+      "timestamp": 1795097693563,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1505,
+      "message_id": "1572978464338878525",
+      "author_id": "1525502569718218842",
+      "author_tag": "kinderestt",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "<@1439594174616829982>",
+      "attachments": null,
+      "timestamp": 1795097690425,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1504,
+      "message_id": "1572978432755638293",
+      "author_id": "1364528957558493236",
+      "author_tag": "sheryyys",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "сабку седня дали",
+      "attachments": null,
+      "timestamp": 1795097682895,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1503,
+      "message_id": "1572978416032948376",
+      "author_id": "1364528957558493236",
+      "author_tag": "sheryyys",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "ток пришел на медиа",
+      "attachments": null,
+      "timestamp": 1795097678908,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1502,
+      "message_id": "1572978400375873660",
+      "author_id": "1364528957558493236",
+      "author_tag": "sheryyys",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "https://youtube.com/@shery_pvp?si=VUnly7xTVl1gwE6a",
+      "attachments": null,
+      "timestamp": 1795097675175,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1501,
+      "message_id": "1572978337574293685",
+      "author_id": "1525502569718218842",
+      "author_tag": "kinderestt",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "канал",
+      "attachments": null,
+      "timestamp": 1795097660202,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1500,
+      "message_id": "1572978317932634114",
+      "author_id": "1364528957558493236",
+      "author_tag": "sheryyys",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "логин Shery",
+      "attachments": null,
+      "timestamp": 1795097655519,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1499,
+      "message_id": "1572978296550072423",
+      "author_id": "1364528957558493236",
+      "author_tag": "sheryyys",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "рольку медиа можно",
+      "attachments": null,
+      "timestamp": 1795097650421,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
+    {
+      "id": 1498,
+      "message_id": "1572978281345454081",
+      "author_id": "1364528957558493236",
+      "author_tag": "sheryyys",
+      "channel_id": "1572978023194435596",
+      "channel_name": "ticket-sherys",
+      "content": "привет",
+      "attachments": null,
+      "timestamp": 1795097646796,
+      "deleted": 0,
+      "deleted_by": null,
+      "deleted_at": null
+    },
     {
       "id": 1497,
       "message_id": "1572978072821432462",
@@ -6874,132 +7000,6 @@
       "deleted": 0,
       "deleted_by": null,
       "deleted_at": null
-    },
-    {
-      "id": 1006,
-      "message_id": "1572281558755311659",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "сука",
-      "attachments": null,
-      "timestamp": 1794931535186,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1005,
-      "message_id": "1572281556310167596",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "нахуй",
-      "attachments": null,
-      "timestamp": 1794931534603,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1004,
-      "message_id": "1572281553810235474",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "ты",
-      "attachments": null,
-      "timestamp": 1794931534007,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1003,
-      "message_id": "1572281550844985427",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "ну",
-      "attachments": null,
-      "timestamp": 1794931533300,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1002,
-      "message_id": "1572281547955118181",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "блять",
-      "attachments": null,
-      "timestamp": 1794931532611,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1001,
-      "message_id": "1572281518821482598",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "и скинуть сюда",
-      "attachments": null,
-      "timestamp": 1794931525665,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 1000,
-      "message_id": "1572281510596313299",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "ты мог потратить 5 евро на что угодно",
-      "attachments": null,
-      "timestamp": 1794931523704,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 999,
-      "message_id": "1572281506825642016",
-      "author_id": "1424164584423690430",
-      "author_tag": "n1mars.",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": ".",
-      "attachments": null,
-      "timestamp": 1794931522805,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
-    },
-    {
-      "id": 998,
-      "message_id": "1572281474466713712",
-      "author_id": "1418884328674431017",
-      "author_tag": "krutoi_sigma1488",
-      "channel_id": "1572273493305860231",
-      "channel_name": "ticket-speedsilver7392",
-      "content": "тут видно только что ты потратил 5 евро на что то",
-      "attachments": null,
-      "timestamp": 1794931515090,
-      "deleted": 0,
-      "deleted_by": null,
-      "deleted_at": null
     }
   ],
   "actions": [],
@@ -7009,7 +7009,7 @@
       {
         "user_id": "1525502569718218842",
         "user_tag": "kinderestt",
-        "total": 207
+        "total": 210
       },
       {
         "user_id": "1418884328674431017",
@@ -7152,6 +7152,11 @@
         "total": 7
       },
       {
+        "user_id": "1364528957558493236",
+        "user_tag": "sheryyys",
+        "total": 7
+      },
+      {
         "user_id": "825064704283246643",
         "user_tag": "veru66",
         "total": 7
@@ -7249,11 +7254,6 @@
       {
         "user_id": "1347937368459448362",
         "user_tag": "famehardownergarmonki",
-        "total": 2
-      },
-      {
-        "user_id": "1492205227225387039",
-        "user_tag": "xstundy",
         "total": 2
       }
     ],
